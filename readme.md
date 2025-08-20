@@ -57,7 +57,7 @@
 
 ---
 
-### Решение 3. Logstash
+### Решение 4. Filebeat
 
 ![Screen_05](https://github.com/MrVanG0gh/Netology_sdb_11_03_ELK/blob/main/screens/Screen_05.png)
 
